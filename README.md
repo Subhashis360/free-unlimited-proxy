@@ -1,7 +1,5 @@
 # ⚡ ProxyForge: Unlimited Proxy Generator
 
-![ProxyForge Logo](https://via.placeholder.com/800x200.png?text=ProxyForge+-+Unlimited+Proxy+Generator)
-
 > **Generate free, unlimited proxies in seconds — power your web scraping, security testing, and research with ease!**
 
 [![GitHub stars](https://img.shields.io/github/stars/Subhashis360/free-unlimited-proxy)](https://github.com/Subhashis360/free-unlimited-proxy) [![License](https://img.shields.io/github/license/Subhashis360/free-unlimited-proxy)](https://github.com/Subhashis360/free-unlimited-proxy/blob/main/LICENSE)
