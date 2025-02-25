@@ -8,7 +8,7 @@
 
 ## 🚀 Features
 
-- 🌍 **Unlimited Proxy Generation:** Create endless HTTP, HTTPS, and SOCKS proxies.
+- 🌍 **Unlimited Proxy Generation:** Create endless HTTP, HTTPS proxies.
 - ⚡ **Blazing Fast:** Generates proxies in seconds.
 - 🔧 **Customizable:** Easily tweak settings to match your needs.
 - 🛡️ **Built for Security Researchers:** Ideal for penetration testing, recon, and more.
