@@ -19,7 +19,7 @@
 ## 📸 Preview (Example Output)
 
 ```
-Generating unlimited proxies...
+Generating unlimited (Working) proxies...
 ---------------------------------
 185.32.45.10:8080
 202.141.80.22:3128
